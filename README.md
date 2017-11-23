@@ -122,7 +122,13 @@ class Hero extends Character {
 //create object, call method
 let me = new Hero("heroic")
 alert(me.getType())
+
+//passing anonymous function as parameter
+ipcMain.on('test', (param1, param2)=>{
+  // code block
+})
 ```
+
 
 ## &raquo; React JSX
 
