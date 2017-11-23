@@ -1,5 +1,9 @@
 # Electron Workshop
 
+![](assets/electron.png)
+
+Self preparation: https://electronjs.org
+
 ## Prerequisites
 
 To work through this workshop's content you will need to **have installed** the following software:
