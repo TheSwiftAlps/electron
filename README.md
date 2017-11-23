@@ -22,7 +22,29 @@ All issues to complete:
 
 Create an issue in your own repo, and copy this markdown so you have a check list to work through:
 
-https://gist.github.com/icanzilb/ad2b2696fef10e89775fe1fb3dd0d8bd
+```markdown
+Here's a prioritized list of all available tasks.
+
+The ones marked with [R] are required (e.g. you need to complete before moving on), and the ones marked as [O] are optional (you still have to do them, but they include a direct link to the solution).
+
+- [ ] [R] [E001](https://github.com/icanzilb/MockServerApp/issues/1)  **Change app window title**
+- [ ] [R] #3 **Improve Table UI**
+- [ ] [R] #2 **Finish server code**
+- [ ] [O] #4 _Change status column width_
+- [ ] [O] #5 _Change UI for error rows_
+- [ ] [O] #6 _Finilize table UI_
+- [ ] [R] #7 **Display nr. of server requests**
+- [ ] [R] #8 **Display the server URL in the window**
+- [ ] [R] #9 **Open system web browser to view server URL**
+- [ ] [R] #10 **Add File button**
+- [ ] [R] #11 **Show system "Open File..." dialogue**
+- [ ] [O] #12 _Show popup confirmation_
+- [ ] [O] #13 _Add Minimize button_
+- [ ] [R] #14 **Show Tray icon**
+- [ ] [R] #15 **Show/hide app window**
+- [ ] [O] #16 _Build mac app bundle_
+- [ ] [O] #17 _Extra tasks (work on your own)_
+```
 
 ## &raquo; HTML TLDR
 
