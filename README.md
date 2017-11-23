@@ -14,9 +14,15 @@ To work through this workshop's content you will need to **have installed** the 
     * Node.js plugin for VSCode: https://marketplace.visualstudio.com/items?itemName=waderyan.nodejs-extension-pack
     * Better JS syntax highlight plugin for VSCode: https://marketplace.visualstudio.com/items?itemName=dzannotti.vscode-babel-coloring
 
-## Workshop Table of Contents
+## Workshop Contents
+
+All issues to complete:
 
  * https://github.com/icanzilb/MockServerApp/issues
+
+Create an issue in your own repo, and copy this markdown so you have a check list to work through:
+
+https://gist.github.com/icanzilb/ad2b2696fef10e89775fe1fb3dd0d8bd
 
 ## &raquo; HTML TLDR
 
