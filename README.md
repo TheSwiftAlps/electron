@@ -138,13 +138,13 @@ JSX is a templating feature of React.js which bundles a component's view code wi
 class App extends React.Component {
    constructor(props) {
     super(props)
-    this.name = "World!"
+    this.setState({name: "World!"})
    }
   
    render() {
       return (
          <div>
-            Hello {this.name}
+            <strong>Hello {this.state.name}</strong>
          </div>
       );
    }
