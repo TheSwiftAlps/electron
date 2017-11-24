@@ -144,6 +144,7 @@ class App extends React.Component {
    render() {
       return (
          <div>
+            <h1>App Header</h1>
             <strong>Hello {this.state.name}</strong>
          </div>
       );
