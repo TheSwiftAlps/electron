@@ -130,7 +130,7 @@ ipcMain.on('test', (param1, param2)=>{
 ```
 
 
-## &raquo; React JSX
+## &raquo; React JSX TLDR
 
 JSX is a templating feature of React.js which bundles a component's view code with the logic. The code between brackets is HTML to be rendered when the component is displayed in a web browser. Inside the HTML everything between curly brackets will be evaluated as JavaScript:
 
